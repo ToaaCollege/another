@@ -4,3 +4,7 @@ new feature
 another feature
 in development
 trying quickly
+<<<<<<< Updated upstream
+=======
+world
+>>>>>>> Stashed changes
