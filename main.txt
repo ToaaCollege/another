@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 trying git repository
 typing new line
 new feature
 another feature
 in development
+=======
+>>>>>>> e58710b (start)
+re-beginning
+
