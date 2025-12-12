@@ -1,3 +1,4 @@
 trying git repository
 typing new line
-new featue
+new feature
+another feature
