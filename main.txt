@@ -1,9 +1,2 @@
-trying git repository
-typing new line
-new feature
-another feature
-in development
-trying hard
-another one
-hello
+re-beginning
 
