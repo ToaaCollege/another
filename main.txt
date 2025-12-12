@@ -3,4 +3,4 @@ typing new line
 new feature
 another feature
 in development
-trying quickly
+trying
