@@ -3,5 +3,5 @@ typing new line
 new feature
 another feature
 in development
-trying hard
-another one
+trying quickly
+world
